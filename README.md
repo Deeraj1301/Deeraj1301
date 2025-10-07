@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 ### **👋Hi, I'm *Deeraj S***
-**a passionate data analytics enthusiast with a strong foundation in SQL, Power BI, Excel, and Python. I thrive on transforming raw data into meaningful insights that support smarter decision-making. My expertise lies in using SQL for efficient data extraction and management, Power BI for building interactive and insightful dashboards, Excel for advanced data manipulation, and Python for conducting in-depth exploratory data analysis. Through my GitHub portfolio, I showcase a diverse range of projects that highlight my analytical thinking, problem-solving abilities, and visualization skills. I’m always eager to learn, grow, and collaborate on innovative data-driven projects that create real-world impact.**
+**A passionate data analytics enthusiast with a strong foundation in SQL, Power BI, Excel, and Python. I thrive on transforming raw data into meaningful insights that support smarter decision-making. My expertise lies in using SQL for efficient data extraction and management, Power BI for building interactive and insightful dashboards, Excel for advanced data manipulation, and Python for conducting in-depth exploratory data analysis. Through my GitHub portfolio, I showcase a diverse range of projects that highlight my analytical thinking, problem-solving abilities, and visualization skills. I’m always eager to learn, grow, and collaborate on innovative data-driven projects that create real-world impact.**
 
 ## 📑 Certifications :
 - Microsoft Excel crash course certificate from ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white)
