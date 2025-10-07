@@ -4,9 +4,10 @@
 **A passionate data analytics enthusiast with a strong foundation in SQL, Power BI, Excel, and Python. I thrive on transforming raw data into meaningful insights that support smarter decision-making. My expertise lies in using SQL for efficient data extraction and management, Power BI for building interactive and insightful dashboards, Excel for advanced data manipulation, and Python for conducting in-depth exploratory data analysis. Through my GitHub portfolio, I showcase a diverse range of projects that highlight my analytical thinking, problem-solving abilities, and visualization skills. I’m always eager to learn, grow, and collaborate on innovative data-driven projects that create real-world impact.**
 
 ## 📑 Certifications :
-- Microsoft Excel crash course certificate from ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white)
+- Microsoft Excel crash course certificate from [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-63e1235d-6025-417d-ad7f-66009f608963/)
 - Google Data Analyst Certificate from ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)
-- SQL (Basic and Intermediate) skill certification with SQL 5⭐(Gold Badge) from ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=black)
+- SQL (Basic and Intermediate) skill certification with SQL 5⭐(Gold Badge) from [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=plastic&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/certificates/iframe/ead7217c8408)
+- Introduction to Data Analysis using Microsoft Excel [![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=plastic&logo=Coursera&logoColor=white)](https://coursera.org/share/b1f7d368b7b78af1912dbe78fa2cf7ef)
 - Certification for completing Data Visualisation course Anudip Foundation Skill and Career Development Centre at KAAFW.
 -  One Roadmap Skill Certification Test in Data Analyst.
 
